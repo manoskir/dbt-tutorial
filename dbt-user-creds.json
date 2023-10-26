@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quantum-beach-403212",
+  "private_key_id": "bb42f0b99513f70d67d5e4918a700afe97216137",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCochaZQwiMuFFJ\noS7FoAWGzmLrHWIKGgK+rfZ4L5F6zZoFAXF+b5DfCszcOqPGXAs1NmI4MJ4DI/Yt\nvIQ/Z4VjfuvcFz6vov8ApXB5kVG4pNTESFP4gqf5L/bFtN9VmbqGT7/0MjkSxs2R\nnHvdLV/M4OrmFqToDwhw5Cgib3nFYhhJnjdjZ69b+a3GgzkNsZjGPj3U4mTrL3Gv\na8Pvc4h9PjiEQLbfJGeq5X5M9uAiUvJDv6i4ITowKFr5wzy5M63U8I+1lzXWa/ux\nJFy53e6UY1Ip/QSq2DBHnImfUJZ8kwuCNmXDgCzn7geZYASIPTmo/D775P+pzACi\nR5BwsXQ7AgMBAAECggEAA1RZLM30MeirkQ7PjUNDEk2rPnlGAji0/y6r5YCpmbAA\nsFw9iw5xFaEk0kf42FqvZtQPwvHEqpk5kq112IiXGWCQqh86s18/nRqoC3voDdDf\ndI9dblcSABntNC4Fqa9KAY4H/eKt2biP2nLDLzVoMShTXEyF4lReiiS1KmEVThja\nMjWMdCFxNY9TVnSyMeiLCukCZzHh2TSFIMq2KAAMrH5rT0SKPbcJT4g4c4C9tQ4H\nsDRiKLcUVW/vLcDdDR0es+v5zpKDqa5dJa+lfO+l0ERx7yY5cAt+Kh+Khq0hC4/C\nrx+SGLheA353ropXIWqH3vCLpB7bwt4oQx5oZID0QQKBgQDtPiMl+xuVqulk0ss5\n/l9AXrVagtgtfRACeF28PC6x4bitrOeOZJcvvnyMzTPrUkLf55Wfuwxylvyj4qR9\n6w1iuzuM3svkm8lbpBdWjEqxfD2zTZidRjpVvBuhupu63tUAQZAUWZg3mGS6CilV\nHaF3WbAmb/CALk00xhpWGULUWwKBgQC1w3piOCM0VKsVQfhzYSZJBNTzP3xvBhnB\nj9vD5Mq7i2CWFqgbRETsUcOnwvRmP7E5Z0GjbkWLEDR8iYj8d8tYIp/C0dRmpvdw\nagOA++fUuhtN6niafAdh1YMR54qVDA3VuEeIzx2bJKz/k3pWTB96FarXAIhXxl7p\n9nJVjUZloQKBgASm1D+ZZdgQatUcQPnZH/r+IGYu7JgvvJGf1I6tS2kXeOyG2F91\nX3WDMaP9Hgh+K2uCee+Q1lSk2z1HY1xIsJGABFHlyG+qEk+mrwJ2a7yBKCCM4/Ip\nf1lQ/+Wy5/zJA7omjvGnNBHa/habvmW52AGkE40dYsTQo5jmTXvksOfDAoGASXAs\nj2idGLSo1xLrfjqfTFtOauWYsgbl+yXTpkdXfgTnRlzrGPExY8X5ZlvHgVR0l3vX\nsl+Ia5JlknfDSDZiiz6aDA3ZYoxNZzb+KWweE/4JsCZvCgPYu7eXmHFTtbrEEDi/\ndlAwZxGfcDe28w0YnqwIdYv6inRUvvTa5yQIcGECgYA/gI2aR9uoJ+AkM6WcMnuB\nxBEHyqUM/rkBntyW5ffGuHP2N66eUlaEHhPyp4Ugq1IsUifuBLbHztzlnOiCHcQJ\nAImMENZX/rN48pX/wld48OqWez6Pv+mdftV8dFca7qUJxQCi0tr2POIeXTinPYpS\nuwi4ugQiqexU0/kdgbnhXA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@quantum-beach-403212.iam.gserviceaccount.com",
+  "client_id": "115179511052025707756",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40quantum-beach-403212.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
